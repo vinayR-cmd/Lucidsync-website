@@ -3,6 +3,7 @@ A fully responsive, interactive website built with smooth parallax effects, glas
 
 🚀 Live Demo
 👉 Click here to view the live project
+https://vinayr-cmd.github.io/Lucidsync-website/
 
 ✨ Features
 🌟 Smooth parallax scrolling
